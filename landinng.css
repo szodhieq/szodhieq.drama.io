@@ -1,0 +1,19 @@
+body,html { 
+  background: url(download.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+hr{color: orangered;
+  max-width:65px;}
+
+
+.btn{border-radius: 300px;
+background-color: orangered;
+border-color: orangered;
+}
+  .btn:hover{transform: scale(1.1);
+background-color:purple;
+}
+body { text-align: center; }
